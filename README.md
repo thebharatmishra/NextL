@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+### Some Notes
+
+Naming name.modules.css as your css file makes it exclusive to the local file and isn't defined globally.
+
 ## Getting Started
 
 First, run the development server:
